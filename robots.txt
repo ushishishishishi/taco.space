@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://<github_username>.github.io/%3Crepository-name/sitemap.xml
