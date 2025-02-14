@@ -3,19 +3,19 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>https://&lt;github_username&gt;.github.io/%3Crepository-name/posts/</loc>
+    <loc>http://localhost:1313/%3Crepository-name/posts/</loc>
     <lastmod>2025-02-14T18:02:52+09:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://&lt;github_username&gt;.github.io/%3Crepository-name/</loc>
+    <loc>http://localhost:1313/%3Crepository-name/</loc>
     <lastmod>2025-02-14T18:02:52+09:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://&lt;github_username&gt;.github.io/%3Crepository-name/about/</loc>
+    <loc>http://localhost:1313/%3Crepository-name/about/</loc>
     <lastmod>2025-02-14T17:14:40+09:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
