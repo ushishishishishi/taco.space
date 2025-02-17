@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Abouts on taco</title>
-    <link>http://localhost:1313/%3Crepository-name/about/</link>
+    <link>http://localhost:1313/taco.space/about/</link>
     <description>Recent content in Abouts on taco</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>© 2025 </copyright>
-    <lastBuildDate>Fri, 14 Feb 2025 17:14:40 +0900</lastBuildDate><atom:link href="http://localhost:1313/%3Crepository-name/about/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 14 Feb 2025 17:14:40 +0900</lastBuildDate><atom:link href="http://localhost:1313/taco.space/about/index.xml" rel="self" type="application/rss+xml" />
     
   </channel>
 </rss>
